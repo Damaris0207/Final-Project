@@ -1,7 +1,7 @@
 # Book Recommender Prototype 📚🔍
 by Dàmaris Clariana, July 2021
 
-## Content
+## Index
 
 - [Introduction](#introduction)
 - [Finding and processing the data](#finding-and-processing-the-data)
@@ -12,9 +12,9 @@ by Dàmaris Clariana, July 2021
 
 ## Introduction
 
-__Scenario__: In this project we want to better understand the situation in Spanish hospitals during the firsts months of quarantine.
+__Scenario__: Being a reader all these years and working in my firsts jobs in bookshops, i've realized that there is no such thing as a book recommender. There are several websites and book apps, but they are or kind of social media (making community, connecting, sharing about books...) or kind of reading support (where you can register your process with the book, how you feeling...) but this is not a recommender in itself
 
-__Challenge__: This Case study has been centered in analizing how was COVID-19's impact in Spanish Hospitals during 2 and a half months of quarantine, from March until May 2020. Finding the right data was the first challenge. Once we found it, processing it applying our learnings was the second one.
+_Challenge__: This Case study has been centered in analizing how was COVID-19's impact in Spanish Hospitals during 2 and a half months of quarantine, from March until May 2020. Finding the right data was the first challenge. Once we found it, processing it applying our learnings was the second one.
 You can follow the evolution of our workflow in [our board in Trello.](https://trello.com/b/gMolkS8a/spain-covid19-evolution)
 
 __Results__: We create an original story for this study which you can read [in Medium](https://damarisclariana.medium.com/once-upon-a-time-in-2020-f69d2bfbf688). Also, see our [class presentation](https://docs.google.com/presentation/d/1dQKDws_-9TbYiWTeNklnyJOZwzONCreBCL8sHWzBlGM/edit?usp=sharing).
