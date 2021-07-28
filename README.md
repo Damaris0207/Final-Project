@@ -1,17 +1,16 @@
 # Book Recommender Prototype 📚🔍
-# Covid In Spanish Hospitals 2020 🏥 🛌 😷
 by Dàmaris Clariana, July 2021
 
 ## Content
 
-- [Project Brief](#project-brief)
+- [Introduction](#introduction)
 - [Finding and processing the data](#finding-and-processing-the-data)
 - [Processing data with Tableau](#processing-data-with-tableau)
 - [Conclusions](#conclusions)
 - [Refferences](#refferences)
 
 
-## Project Brief
+## Introduction
 
 __Scenario__: In this project we want to better understand the situation in Spanish hospitals during the firsts months of quarantine.
 
