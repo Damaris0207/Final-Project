@@ -89,6 +89,12 @@ Thanks for reading!
 Other references and sources I consulted about literary concepts! These helped me to shape the survey:
 
 https://literaryterms.net/
+
 https://www.oprahdaily.com/entertainment/books/a29576863/types-of-book-genres/
+
 https://self-publishingschool.com/book-genres/
+
 https://www.homohominisacrares.net/artes-literatura/generos-de-novelas.php
+
+https://www.codecademy.com/learn/machine-learning/modules/dspath-clustering/cheatsheet
+
